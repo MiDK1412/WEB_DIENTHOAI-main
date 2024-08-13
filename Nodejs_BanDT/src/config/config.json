@@ -1,0 +1,13 @@
+{
+    "development": {
+        "username": "root",
+        "password": "Kietmi@1412",
+        "database": "csdl_dienthoai",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "logging": false,
+        "query": { "raw": true },
+        "timezone": "+07:00"
+    }
+
+}
